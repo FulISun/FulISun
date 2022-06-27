@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FullSun%20Data%20Analysis%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=✨FullSun%20Data%20World✨%20&fontSize=50)
 
 <div align=center><h1> 💻 t e c h 💻 </h1></div>
 <div align=center>
