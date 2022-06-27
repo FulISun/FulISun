@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
   <img src="https://img.shields.io/badge/SAS-DD0B78?style=for-the-badge&logo=Starship&logoColor=white">
-  <img src="https://img.shields.io/badge/PASS-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
+  <img src="https://img.shields.io/badge/PASS-F8DC75?style=for-the-badge&logo=Salesforce&logoColor=white">
