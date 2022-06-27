@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
   <img src="https://img.shields.io/badge/SAS-DD0B78?style=for-the-badge&logo=Starship&logoColor=white">
-  <img src="https://img.shields.io/badge/PASS-F8DC75?style=for-the-badge&logo=Salesforce&logoColor=white">
+  <img src="https://img.shields.io/badge/PASS-DDE072?style=for-the-badge&logo=Salesforce&logoColor=white">
