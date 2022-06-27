@@ -28,3 +28,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/PASS-DDE072?style=for-the-badge&logo=Salesforce&logoColor=white">
   <br>
  </div>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFulISun&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
