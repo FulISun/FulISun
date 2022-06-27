@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FullSun's Data Analysis%20render&fontSize=70)
+
+<div align=center><h1> STACKS </h1></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/SAS-DD0B78?style=for-the-badge&logo=Starship&logoColor=white">
+  <img src="https://img.shields.io/badge/PASS-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
